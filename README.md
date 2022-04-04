@@ -1,4 +1,5 @@
 # Charles's Notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+## Summary
+
+This repository will contain notes taken by [Charles Ngo](https://github.com/ZetaChulls) for the Lighthouse Labs Web Develeopment Bootcamp.
